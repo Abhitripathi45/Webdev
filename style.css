@@ -1,0 +1,10 @@
+body {
+    background-color: black; /* Update the path to where bg.png is located */
+    background-size: cover; /* This will cover the entire body */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+}
+.section {
+    margin: 0;
+    padding: 0;
+  }
